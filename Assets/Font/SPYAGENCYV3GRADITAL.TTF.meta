@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1d63cf35412e4134886e450351472ecc
+timeCreated: 1512465457
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spy Agency Gradient Italic
+  fontNames:
+  - Spy Agency Gradient Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

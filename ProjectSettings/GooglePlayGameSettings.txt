@@ -1,0 +1,9 @@
+lastUpgrade=00942
+proj.pluginVersion=0.9.42
+proj.AppId=428332113075
+and.BundleId=com.Group3.Lalerlalier
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e428332113075%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Group3.Lalerlalier%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Laleur+Warior+--%3e%0d%0a++%3cstring+name%3d%22achievement_laleur_warior%22+translatable%3d%22false%22%3eCgkIs7nV1LsMEAIQAA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Laleur+Captain+--%3e%0d%0a++%3cstring+name%3d%22achievement_laleur_captain%22+translatable%3d%22false%22%3eCgkIs7nV1LsMEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Dodge+Master+of+Laleur+--%3e%0d%0a++%3cstring+name%3d%22achievement_dodge_master_of_laleur%22+translatable%3d%22false%22%3eCgkIs7nV1LsMEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+The+God+Of+Laleur+Dodge+--%3e%0d%0a++%3cstring+name%3d%22achievement_the_god_of_laleur_dodge%22+translatable%3d%22false%22%3eCgkIs7nV1LsMEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Leaderboard+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaderboard%22+translatable%3d%22false%22%3eCgkIs7nV1LsMEAIQBA%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=428332113075-3kghvbst8d8rg1ajr9189lur4p9a2csl.apps.googleusercontent.com
+android.SetupDone=true

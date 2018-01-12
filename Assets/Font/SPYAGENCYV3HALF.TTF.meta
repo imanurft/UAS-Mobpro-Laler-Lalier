@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7ec45699306645543b0b19158ce094d6
+timeCreated: 1512465457
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spy Agency Halftone
+  fontNames:
+  - Spy Agency Halftone
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

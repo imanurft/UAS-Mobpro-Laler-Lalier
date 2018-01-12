@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8564351fae4e81d47841958fa8b283ec
+timeCreated: 1512465457
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spy Agency Outline
+  fontNames:
+  - Spy Agency Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

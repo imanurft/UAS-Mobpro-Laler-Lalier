@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b456887aa4c28fa4dbc7e2b6e729e71c
+timeCreated: 1512465457
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spy Agency Academy
+  fontNames:
+  - Spy Agency Academy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
